@@ -141,7 +141,9 @@ const Contact = () => {
         position="bottom-center"
         autoClose={2000}
         hideProgressBar
-        className="mt-4"
+        toastClassName="bg-jetLight text-timberWolf border border-jet rounded-lg shadow-lg"
+        bodyClassName="text-taupe font-poppins"
+        progressClassName="bg-french"
       />
     </div>
   );

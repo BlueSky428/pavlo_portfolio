@@ -257,14 +257,15 @@
   height: 40px !important;
   width: 40px !important;
   border-radius: 50% !important;
-  color: white !important;
+  color: #9999a1 !important;
+  background: transparent !important;
 }
 .swiper-button-next:hover {
-  color: #171717 !important;
+  color: #292929 !important;
 }
 
 .swiper-button-prev:hover {
-  color: #171717 !important;
+  color: #292929 !important;
 }
 
 .swiper-button-next:after,
@@ -296,7 +297,7 @@
 }
 
 .swiper-pagination-bullet-active {
-  background: white !important;
+  background: #9999a1 !important;
 }
 
 .swiper-slide.swiper-slide-active>.slide_active\:border-indigo-600 {

@@ -47,8 +47,8 @@ const Navbar = () => {
         <div className="sm:hidden flex flex-1 w-full justify-end items-center">
           {toggle ? (
             <div
-              className={`p-6 bg-flashWhite opacity-[0.98] absolute 
-                top-0 left-0 w-full h-[100vh] z-10 menu ${toggle ? 'menu-open' : 'menu-close'
+              className={`p-6 bg-flashWhite opacity-[0.99] absolute 
+                top-0 left-0 w-full h-[100vh] z-10 menu backdrop-blur-sm ${toggle ? 'menu-open' : 'menu-close'
                 }`}>
               <div className="flex justify-end">
                 <img

@@ -43,10 +43,10 @@ const Hero = () => {
                 Pavlo Stepanenko
               </span>
             </h1>
-            <p className={`mt-2 text-eerieBlack sm:text-[25px] text-[20px]`}>
-              Success is hard work without giving up. <br className="sm:block hidden" />
-              Anyone can succeed. <br className="sm:block hidden" />
-              Success is another name for happiness.
+            <p className={`mt-2 text-eerieBlack sm:text-[25px] text-[18px] leading-relaxed`}>
+              Full Stack Developer & Project Manager with 6+ years of experience <br className="sm:block hidden" />
+              building scalable web applications and blockchain solutions. <br className="sm:block hidden" />
+              Passionate about delivering exceptional results and innovative technology.
             </p>
           </div>
           <div

@@ -54,6 +54,9 @@ const Education = () => {
     return (
         <>
             <motion.div variants={textVariant()}>
+                <p className={`${styles.sectionSubText} sm:pl-16 pl-[2rem]`}>
+                    Academic Background
+                </p>
                 <h2 className={`${styles.sectionHeadText} sm:pl-16 pl-[2rem]`} id='education'>
                     Education
                 </h2>
