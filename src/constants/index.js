@@ -146,9 +146,16 @@ const technologies = [
 
 const experiences = [
   {
-    title: 'Full Stack Developer & Project Manager',
-    company_name: 'Freelance',
+    title: 'Full Stack Developer',
+    company_name: 'Upwork · Freelance',
     icon: coverhunt,
+    iconBg: '#333333',
+    date: 'Mar 2022 - Present',
+  },
+  {
+    title: 'Project Manager',
+    company_name: 'Sonex Digital · Part-time',
+    icon: microverse,
     iconBg: '#333333',
     date: 'Mar 2022 - Present',
   },
