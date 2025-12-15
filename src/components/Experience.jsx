@@ -102,7 +102,7 @@ const Experience = () => {
               ease-in-out"
               onClick={() =>
                 window.open(
-                  'resume link', //paste the link to your resume here
+                  'https://www.linkedin.com/in/pavlo-stepanenko-b423aa363/',
                   '_blank'
                 )
               }
